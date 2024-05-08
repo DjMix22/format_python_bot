@@ -25,8 +25,7 @@ TOKEN='YOUR_TOKEN'
 2. Установите необходимые библиотеки:
 
 ```
-pip install pyTelegramBotAPI
-pip install python-dotenv
+pip install -r requirements.txt
 ```
 
 3. Запустите бота:
